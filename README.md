@@ -8,7 +8,6 @@ A simple command-line interface (CLI) for managing tasks.
 - List tasks by status (todo, in-progress, done)
 
 ## project url
-https://github.com/chandrukonnur/Task-Tracker
 https://roadmap.sh/projects/task-tracker
 
 ### Add a task
